@@ -11,4 +11,3 @@ The notebook contains in detail my approach to
 7)	Calculating RMSE
 8)	Creating a training and test dataset.
 
-I understand there are several other factors I could take into consideration and reach a better prediction, but keep in mind this is my first approach to understanding Machine Learning and its workings, so it is not a deep dive. The aim here was not come up with the best model rather, it was to understand the algorithm and techniques of Linear Regression.
